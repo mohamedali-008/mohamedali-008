@@ -25,21 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-mocha.vercel.app/api?username=MO-Nigo&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-Nigo&theme=radical" />
-</p>
-
-
----
-
-### 📌 Featured Projects:
-🚑 **[Medical Viewer for PET-CT](https://github.com/MO-Nigo/your-project-link)** - Web-based AI medical imaging viewer.  
-🖥️ **[DICOM-Visualizer](https://github.com/MO-Nigo/your-project-link)** - A tool to view and analyze DICOM images using PyQt5.  
-
----
-
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elnagar-513a64245/)
 
