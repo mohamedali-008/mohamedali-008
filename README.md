@@ -31,6 +31,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-Nigo&theme=radical" />
 </p>
 
+
 ---
 
 ### 📌 Featured Projects:
@@ -40,7 +41,7 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://www.linkedin.com/in/mohammed-elnagar-513a64245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elnagar-513a64245/)
 
 ---
 
