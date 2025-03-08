@@ -27,7 +27,7 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MO-Nigo&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-mocha.vercel.app/api?username=MO-Nigo&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MO-Nigo&theme=radical" />
 </p>
 
@@ -40,9 +40,8 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MO-Nigo)  
+[![LinkedIn](https://www.linkedin.com/in/mohammed-elnagar-513a64245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
-⭐️ **If you like my work, consider giving it a star!** 🌟  
+
